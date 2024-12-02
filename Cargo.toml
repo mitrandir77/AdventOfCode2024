@@ -40,3 +40,132 @@ path = "src/02a.rs"
 [[bin]]
 name = "02b"
 path = "src/02b.rs"
+
+[[bin]]
+name = "03a"
+path = "src/03a.rs"
+
+[[bin]]
+name = "03b"
+path = "src/03b.rs"
+
+[[bin]]
+name = "04a"
+path = "src/04a.rs"
+
+[[bin]]
+name = "04b"
+path = "src/04b.rs"
+
+[[bin]]
+name = "05a"
+path = "src/05a.rs"
+
+[[bin]]
+name = "05b"
+path = "src/05b.rs"
+
+[[bin]]
+name = "06a"
+path = "src/06a.rs"
+
+[[bin]]
+name = "06b"
+path = "src/06b.rs"
+
+[[bin]]
+name = "07a"
+path = "src/07a.rs"
+
+[[bin]]
+name = "07b"
+path = "src/07b.rs"
+
+[[bin]]
+name = "08a"
+path = "src/08a.rs"
+
+[[bin]]
+name = "08b"
+path = "src/08b.rs"
+
+[[bin]]
+name = "09a"
+path = "src/09a.rs"
+
+[[bin]]
+name = "09b"
+path = "src/09b.rs"
+
+[[bin]]
+name = "10a"
+path = "src/10a.rs"
+
+[[bin]]
+name = "10b"
+path = "src/10b.rs"
+
+
+[[bin]]
+name = "11a"
+path = "src/11a.rs"
+
+[[bin]]
+name = "11b"
+path = "src/11b.rs"
+
+[[bin]]
+name = "12a"
+path = "src/12a.rs"
+
+[[bin]]
+name = "12b"
+path = "src/12b.rs"
+
+[[bin]]
+name = "13a"
+path = "src/13a.rs"
+
+[[bin]]
+name = "13b"
+path = "src/13b.rs"
+
+[[bin]]
+name = "14a"
+path = "src/14a.rs"
+
+[[bin]]
+name = "14b"
+path = "src/14b.rs"
+
+[[bin]]
+name = "15a"
+path = "src/15a.rs"
+
+[[bin]]
+name = "15b"
+path = "src/15b.rs"
+
+[[bin]]
+name = "16a"
+path = "src/16a.rs"
+
+[[bin]]
+name = "16b"
+path = "src/16b.rs"
+
+[[bin]]
+name = "17a"
+path = "src/17a.rs"
+
+[[bin]]
+name = "17b"
+path = "src/17b.rs"
+
+[[bin]]
+name = "18a"
+path = "src/18a.rs"
+
+[[bin]]
+name = "18b"
+path = "src/18b.rs"
