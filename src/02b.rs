@@ -1,5 +1,5 @@
-// Advent of Code 2023
-// (c) 2023 Mateusz Kwapich
+// Advent of Code 2024
+// (c) 2024 Mateusz Kwapich
 
 use anyhow::Result;
 use std::cmp::Ordering;
