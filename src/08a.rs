@@ -50,10 +50,6 @@ fn count_antinodes(map: &mut [Vec<u8>]) -> usize {
                 if (0..h).contains(&ny) && (0..w).contains(&nx) {
                     antinodes.insert((ny, nx));
                 }
-                let (ny, nx) = (by - yd, bx - xd);
-                if (0..h).contains(&ny) && (0..w).contains(&nx) {
-                    antinodes.insert((ny, nx));
-                }
             }
         }
     }
