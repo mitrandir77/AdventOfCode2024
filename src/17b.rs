@@ -88,10 +88,10 @@ fn main() -> Result<()> {
     let_scan!(line; ("Register A: ", let _a: u64));
 
     let line = lines.next().unwrap()?;
-    let_scan!(line; ("Register B: ", let b: u64));
+    let_scan!(line; ("Register B: ", let _b: u64));
 
     let line = lines.next().unwrap()?;
-    let_scan!(line; ("Register C: ", let c: u64));
+    let_scan!(line; ("Register C: ", let _c: u64));
 
     let line = lines.nth(1).unwrap()?;
     let_scan!(line; ("Program: ", [ let prog: u8 ],+));

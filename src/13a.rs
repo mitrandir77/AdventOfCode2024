@@ -2,7 +2,7 @@
 // (c) 2024 Mateusz Kwapich
 
 use anyhow::Result;
-use std::{collections::BTreeSet, i64, io::BufRead};
+use std::{collections::BTreeSet, io::BufRead};
 #[macro_use]
 extern crate scan_rules;
 use scan_rules::scan;
