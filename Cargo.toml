@@ -11,6 +11,7 @@ maplit = "1.0.2"
 multiset = "0.0.5"
 regex = "1.11.1"
 itertools = "0.13.0"
+lazy_static = "1.5.0"
 text_io = "0.1.12"
 scan-rules = { version = "0.2.0", features = ["regex"] }
 mset = "0.1.1"
@@ -186,3 +187,35 @@ path = "src/20a.rs"
 [[bin]]
 name = "20b"
 path = "src/20b.rs"
+
+[[bin]]
+name = "21a"
+path = "src/21a.rs"
+
+[[bin]]
+name = "21b"
+path = "src/21b.rs"
+
+[[bin]]
+name = "22a"
+path = "src/22a.rs"
+
+[[bin]]
+name = "22b"
+path = "src/22b.rs"
+
+[[bin]]
+name = "23a"
+path = "src/23a.rs"
+
+[[bin]]
+name = "23b"
+path = "src/23b.rs"
+
+[[bin]]
+name = "24a"
+path = "src/24a.rs"
+
+[[bin]]
+name = "24b"
+path = "src/24b.rs"
