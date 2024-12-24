@@ -2,11 +2,9 @@
 // (c) 2024 Mateusz Kwapich
 
 use anyhow::Result;
-use multimap::MultiMap;
 use scan_rules::scanner::Word;
 use std::{
-    collections::{BTreeMap, BTreeSet, HashSet},
-    hash::Hash,
+    collections::{BTreeMap, BTreeSet},
     io::BufRead,
 };
 #[macro_use]
