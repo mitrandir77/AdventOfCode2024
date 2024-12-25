@@ -11,10 +11,12 @@ maplit = "1.0.2"
 multiset = "0.0.5"
 regex = "1.11.1"
 itertools = "0.13.0"
+num-integer = "0.1.46"
 lazy_static = "1.5.0"
 text_io = "0.1.12"
 scan-rules = { version = "0.2.0", features = ["regex"] }
 mset = "0.1.1"
+indicatif = "0.17.9"
 serde_json = "1.0.133"
 serde = { version = "1.0.216", features = ["derive"] }
 smallset = "0.1.1"
